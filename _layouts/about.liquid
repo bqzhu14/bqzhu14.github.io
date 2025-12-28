@@ -51,11 +51,11 @@ layout: default
     {% endif %}
 
 <!--  Preprints -->
-    {% if page.selected_papers %}
+    {% if page.selected_preprints %}
       <h2>
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Preprints</a>
       </h2>
-      {% include selected_papers.liquid %}
+      {% include selected_preprints.liquid %}
     {% endif %}
 
   </article>
