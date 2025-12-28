@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>707 Fine Hall</p>
+    <p>707 Fine Hall,</p>
     <p>Washington Road</p>
     <p>Princeton, NJ 08540</p>
 
