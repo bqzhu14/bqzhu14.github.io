@@ -1,3 +1,22 @@
+{% assign papers = site.bibliography | where_exp:"item","item.selected == true" %}
+
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* template="bib_template.html" %}
+  {% for item in papers %}
+    <p>
+      {{ item.author }} – 
+      <em>
+        {% if item.url %}
+          <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+        {% else %}
+          {{ item.title }}
+        {% endif %}
+      </em> ({{ item.year }})
+      {% if item.abstract %}
+        <br>{{ item.abstract }}
+      {% endif %}
+      {% if item.doi %}
+        <br><a href="https://doi.org/{{ item.doi }}" target="_blank">DOI</a>
+      {% endif %}
+    </p>
+  {% endfor %}
 </div>
