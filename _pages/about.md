@@ -30,5 +30,5 @@ I am an Instructor of Mathematics at Princeton University. I graduated from [Col
 
 I'm interested in Number theory, especially arithmetic intersection theory and its relation to analytic objects like L-functions. Currently I am studying special cycles and related topics on Shimura varieties and Rapoport--Zink spaces.
 
-I can be reached at [bqzhu@math.princeton.edu] or [bz6439@princeton.edu].
+I can be reached at **bqzhu@math.princeton.edu** or **bz6439@princeton.edu**。
 
