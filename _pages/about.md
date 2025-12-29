@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>bz6439@princeton.edu</a>
+subtitle: bqzhu@math.princeton.edu / bz6439@princeton.edu
 
 profile:
   align: right
