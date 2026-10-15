@@ -7,9 +7,9 @@ first_name: Baiqing
 middle_name: 
 last_name: Zhu
 contact_note: >
-  bz6439@princeton.edu.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  bqzhu@math.princeton.edu.
+description: >
+  Baiqing Zhu, Instructor of Mathematics at Princeton University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -264,8 +264,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Zhu]
+  first_name: [Baiqing]
 
   style: apa
   locale: en
@@ -625,9 +625,8 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# The CV page links to the PDF directly; do not load JSON Resume data.
+jekyll_get_json: []
 
 jsonresume:
   - basics
