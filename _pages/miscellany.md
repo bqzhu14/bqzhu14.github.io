@@ -6,12 +6,12 @@ nav: true
 nav_order: 7
 ---
 
-## 小说与写作
+## Fiction and Writing
 
-除了数学之外，我最大的爱好是小说，我也会自己写小说。我的一些作品已经发表在《科幻世界》杂志上，包括《黑漆》《纸条上的人生》和《刺杀数学家》。
+Outside mathematics, my greatest passion is fiction. I also write stories, and some of my work has been published in *Science Fiction World*, including 《黑漆》, 《纸条上的人生》, and 《刺杀数学家》.
 
-其中，《刺杀数学家》帮助我获得了第三十六届银河奖最佳中篇小说奖。
+I received the Best Novella Award at the 36th Galaxy Awards for 《刺杀数学家》.
 
-## 运动与户外
+## Sports and the Outdoors
 
-我喜爱打羽毛球、排球，以及徒步（hiking）。
+I also enjoy badminton, volleyball, and hiking.
