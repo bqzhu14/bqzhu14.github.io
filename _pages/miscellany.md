@@ -10,4 +10,6 @@ Outside mathematics, my greatest passion is fiction. I also write stories, and s
 
 I received the Best Novella Award at the 36th Galaxy Awards for [《刺杀数学家》](https://csfdb.cn/works/55998).
 
+If you are interested in reading these stories, I would be happy to share them with you.
+
 I also enjoy badminton, volleyball, and hiking.
