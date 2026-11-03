@@ -717,6 +717,10 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
+  &.selected-papers {
+    padding-inline-start: 1.5rem;
+  }
+
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
