@@ -8,6 +8,8 @@ nav_order: 6
 
 ## Princeton University
 
+- MAT202 **Linear Algebra with Applications** (Fall 2026)
+- MAT202 **Linear Algebra with Applications** (Spring 2026)
 - MAT104 **Calculus II** (Fall 2025)
 
 ## Columbia University
